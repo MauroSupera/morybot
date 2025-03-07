@@ -1,0 +1,15 @@
+{
+  "aluguel": [
+    {"id": 1, "tempo": 15, "valor": 10},
+    {"id": 2, "tempo": 30, "valor": 15},
+    {"id": 3, "tempo": 60, "valor": 30},
+    {"id": 4, "tempo": 90, "valor": 45},
+    {"id": 5, "tempo": 120, "valor": 60}
+  ],
+  "allprem": {
+    "premUser": 10,
+    "premUserC": 20,
+    "premGroup": 15,
+    "premGroup": 30
+  }
+}

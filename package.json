@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
+    "axios": "^0.21.1",
+    "cfonts": "^2.10.0",
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "escape-string-regexp": "^1.0.5",
+    "fake-useragent": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^11.1.0",
+    "jsdom": "^19.0.0",
+    "linkifyjs": "^4.1.0",
+    "moment-timezone": "^0.5.40",
+    "multistream": "^4.1.0",
+    "node-fetch": "^2.6.7",
+    "node-webpmux": "^3.1.1",
+    "pdfkit": "^0.16.0",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2"
+  },
+  "name": "Mory Bot Oficial",
+  "description": "Estamos sempre em busca de melhorar e oferecer o melhor para você. Se surgir qualquer dúvida ou se precisar de ajuda, não hesite em nos chamar no WhatsApp. Estamos aqui para te ajudar!",
+  "whatsapp": "+55 98 8556-8495",
+  "version": "6.0.0",
+  "scripts": {
+    "start": "bash start.sh",
+    "test": "node connect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuevaGeneracionALB/aleatory-md.git"
+  },
+  "author": "Mory Conteudos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://moryh.online"
+  },
+  "homepage": "https://moryh.online"
+}
