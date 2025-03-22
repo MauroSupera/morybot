@@ -34,7 +34,7 @@
   ],
   "Verificado": true,
   "AntiCall": false,
-  "ModoAluguel": true,
+  "ModoAluguel": false,
   "ViewMessagesChat": true,
   "LimitCommand": {
     "message": "🕒 Oops! Parece que você usou um comando recentemente. Você precisará esperar {rtime} antes de poder usar outro comando. Vá fazer algo saudável como caminhar e volte quando terminar a contagem!"
