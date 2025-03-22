@@ -24,7 +24,7 @@
   "whatsapp": "+55 98 8556-8495",
   "version": "6.0.0",
   "scripts": {
-    "start": "bash start.sh",
+    "start": "node connect.js sim",
     "test": "node connect.js"
   },
   "repository": {
